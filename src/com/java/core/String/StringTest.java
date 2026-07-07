@@ -23,6 +23,9 @@ public class StringTest {
 
 		String xyz = day.concat("ABCD");
 		System.out.println(xyz);
+		
+		String lhm = day.repeat(2);
+		System.out.println(lhm);
 
 	}
 

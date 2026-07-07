@@ -26,6 +26,9 @@ public class StringTest {
 		
 		String lhm = day.repeat(2);
 		System.out.println(lhm);
+		
+		boolean lhm1 = day.endsWith("A")
+		System.out.println(lhm1);
 
 	}
 
